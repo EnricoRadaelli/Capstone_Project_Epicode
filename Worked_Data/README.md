@@ -1,4 +1,4 @@
-This folder contains intermediate CSV files that have been processed using Jupyter Notebook as part of the data preparation phase in the capstone project. 
+This folder contains intermediate xlsx files that have been processed using Jupyter Notebook as part of the data preparation phase in the capstone project. 
 The data herein reflects initial cleansing and structuring efforts but has not yet reached the final stage of cleanliness required for advanced analytics in Power BI.
 The files in this folder serve as a transitional dataset used for further refinement and analysis in Power BI. 
 They provide a snapshot of the data at an intermediary stage, useful for troubleshooting, audits, and understanding the evolution of data throughout the ETL process.
