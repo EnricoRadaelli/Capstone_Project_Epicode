@@ -3,6 +3,7 @@
 **Project Overview**
 
 Hello, I am Enrico Radaelli, and this repository contains my capstone project completed as part of the Data Analyst certification at Epicode School. This project is an in-depth analysis of a simulated bicycle manufacturing company's data from Kaggle, utilizing Python and Power BI to extract, transform, and load the data for insightful business analytics.
+A project presentation video is also included to offer a comprehensive overview of the methodologies and findings.
 
 **Data and Tools**
 
